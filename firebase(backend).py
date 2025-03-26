@@ -1,4 +1,4 @@
-# Firebase configuration (use your own Firebase project details)
+
 import firebase_admin
 from firebase_admin import credentials, firestore
 
